@@ -42,7 +42,7 @@ GoodImmo est une plateforme moderne qui révolutionne le marché foncier camerou
 ### Installation
 ```bash
 # Cloner le repository
-git clone https://github.com/goodimmo/platform.git
+git clone https://github.com/atabon/good-immo.git
 cd platform
 
 # Installer les dépendances
@@ -107,7 +107,7 @@ goodimmo-platform/
 - Soumission de terrains à vendre
 
 ### Administrateurs
-- Accès avec `admin@goodimmo.cm`
+- Accès avec `willycoder@gmail.com`
 - Validation des terrains
 - Gestion des utilisateurs
 - Modération des signalements
@@ -150,12 +150,12 @@ Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md) 
 ## 📞 Support
 
 - **Email** : support@goodimmo.cm
-- **Téléphone** : +237 6XX XXX XXX
-- **Issues** : [GitHub Issues](https://github.com/goodimmo/platform/issues)
+- **Téléphone(whatsapp)** : +237 681419744
+- **Issues** : [GitHub Issues](https://github.com/atabon/good-immo/issues)
 
 ## 🏆 Équipe
 
-Développé avec ❤️ par l'équipe GoodImmo pour révolutionner le marché foncier camerounais.
+Développé avec ❤️ par Atabong Willy pour révolutionner le marché foncier camerounais.
 
 ---
 
